@@ -18,8 +18,8 @@ Basic challenge to practice CSS and Bootstrap framework.
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-bootstrap-5Z_ycvVft)
+-   Live Site URL: [Add live site URL here](https://fdsantos300.github.io/qrcode/)
 
 ## My process
 
