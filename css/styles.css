@@ -10,7 +10,7 @@ body {
 }
 
 h5 {
-  font-size: 1.25rem;
+  font-size: 21px;
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
 }
@@ -18,14 +18,13 @@ h5 {
 p {
   font-size: 15px;
   color: #7b879d;
+  line-height: 1.25;
 }
 
 footer {
   bottom: 0;
   position: fixed;
-  
 }
-
 
 .card {
   border-radius: 20px;
@@ -37,8 +36,7 @@ footer {
 }
 
 .card-body {
-  padding-top: 0.5rem;
-  padding-bottom: 2rem;
+  padding: 16px 16px 32px;
 }
 
 .card-title {
@@ -47,7 +45,7 @@ footer {
 
 .code-img {
   border-radius: 23px;
-  padding: 10px;
+  padding: 13px 13px 10px;
 }
 
 .footer {
