@@ -23,8 +23,9 @@ p {
 footer {
   bottom: 0;
   position: fixed;
-  width: 100%
+  
 }
+
 
 .card {
   border-radius: 20px;
@@ -32,6 +33,7 @@ footer {
   box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   padding: 0.25rem;
   border: 0;
+  margin: auto;
 }
 
 .card-body {
